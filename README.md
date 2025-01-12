@@ -1,4 +1,4 @@
-# csd-380
+# CSD 380- Dev Ops
 
 ## Contributors
 
